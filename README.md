@@ -1,4 +1,5 @@
 # I Think
+### A community for thoughtful discussions on podcasts, talks, and ideas.
 
 ```📌 Purpose
 A Mini Project based on:
