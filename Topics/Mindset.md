@@ -1,2 +1,3 @@
+# 🧠 Mindset Discussions
 
-Mindset.md
+Topics related to thinking patterns, motivation, resilience, and growth.
