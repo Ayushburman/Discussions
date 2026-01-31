@@ -1,2 +1,3 @@
-Topics Related to Productivity
-Productivity.md
+# 📈 Productivity Discussions
+
+Topics related to time management, habits, focus, and performance.
