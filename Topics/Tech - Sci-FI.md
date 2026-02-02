@@ -27,7 +27,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=80I8LbQvHUU
 ### Elon Musk Talks Tesla, Politics and Putin Relationship (Full Interview)
 > https://www.youtube.com/watch?v=gPGZRJDVXcU
-
+### Elon Musk’s 40 Greatest Motivational Speeches | Best Motivation Ever (MUST WATCH)
 > https://www.youtube.com/watch?v=8YHBJdPK6eY
 
 > https://www.youtube.com/watch?v=k9zTr2MAFRg
