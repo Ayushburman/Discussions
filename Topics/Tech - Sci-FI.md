@@ -33,16 +33,22 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=k9zTr2MAFRg
 ### Tesla CEO Elon Musk speaks at the World Economic Forum in Davos, Switzerland — 1/22/2026
 > https://www.youtube.com/watch?v=UrB2tQDVLLo
+### Rishi Sunak & Elon Musk: Talk AI, Tech & the Future
+> https://www.youtube.com/watch?v=R2meHtrO1n8
 -------
 # 1. Sam Altman
 ### “OpenAI’s Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025”
 > https://www.youtube.com/watch?v=5MWT_doo68k
 ### Sam Altman on the future of AI | ReThinking with Adam Grant
 > https://www.youtube.com/watch?v=c0NqpG--Pzw
-
-
-
-
+### Joe Rogan Experience #2044 - Sam Altman
+> https://www.youtube.com/watch?v=7dCPytNTnjk
+### Watch ET Conversations with OpenAI CEO Sam Altman | An ET Exclusive
+> https://www.youtube.com/watch?v=AiE7FsdRzz8
+### Sam Altman’s Dystopian Vision to Replace God With AI
+> https://www.youtube.com/watch?v=AUfsW8wpfWM
+### Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything | People by WTF | Episode 13
+> https://www.youtube.com/watch?v=SfOaZIGJ_gs
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
