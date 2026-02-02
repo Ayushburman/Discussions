@@ -49,6 +49,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=AUfsW8wpfWM
 ### Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything | People by WTF | Episode 13
 > https://www.youtube.com/watch?v=SfOaZIGJ_gs
+### Inside OpenAI's Stargate Megafactory with Sam Altman | The Circuit
+> https://www.youtube.com/watch?v=GhIJs4zbH0o
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
