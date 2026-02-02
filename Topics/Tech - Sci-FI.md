@@ -34,6 +34,13 @@ Ethics, impact of tech, AI, and digital life.
 ### Tesla CEO Elon Musk speaks at the World Economic Forum in Davos, Switzerland — 1/22/2026
 > https://www.youtube.com/watch?v=UrB2tQDVLLo
 -------
+# 1. Sam Altman
+### “OpenAI’s Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025”
+> https://www.youtube.com/watch?v=5MWT_doo68k
+
+
+
+
 
 
 > [!CAUTION]
