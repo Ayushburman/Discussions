@@ -5,7 +5,7 @@ Ethics, impact of tech, AI, and digital life.
 # 1. Linus Torvald
 ### The Mind Behind Linux | Linus Torvalds | TED 
 > https://www.youtube.com/watch?v=o8NPllzkFhE
-
+--------
 # 2. Elon Musk
 ### The mind behind Tesla, SpaceX, SolarCity ... | Elon Musk
 > https://www.youtube.com/watch?v=IgKWPdJWuBQ 
@@ -33,7 +33,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=k9zTr2MAFRg
 ### Tesla CEO Elon Musk speaks at the World Economic Forum in Davos, Switzerland — 1/22/2026
 > https://www.youtube.com/watch?v=UrB2tQDVLLo
-
+-------
 
 
 > [!CAUTION]
