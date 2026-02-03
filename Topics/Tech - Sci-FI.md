@@ -51,6 +51,22 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=SfOaZIGJ_gs
 ### Inside OpenAI's Stargate Megafactory with Sam Altman | The Circuit
 > https://www.youtube.com/watch?v=GhIJs4zbH0o
+--------------
+# 3. Dennis Ritchie 
+### Dennis Ritchie's video interview June 2011
+> https://www.youtube.com/watch?v=umF6SNYaJNw
+### Pushing the Limits of Technology: The Ken Thompson and Dennis Ritchie Story
+> https://www.youtube.com/watch?v=g3jOJfrOknA
+### Dennis Ritchie — Biographical Computer History Video
+> https://www.youtube.com/watch?v=RaotHMNZPaI
+### The Story of Dennis Ritchie
+> https://www.youtube.com/watch?v=RaotHMNZPaI
+###
+>
+###
+
+
+
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
