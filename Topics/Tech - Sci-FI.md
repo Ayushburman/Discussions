@@ -87,8 +87,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=sln-gJaURzk
 ### UNIX was designed for programmers | Brian Kernighan and Lex Fridman
 > https://www.youtube.com/watch?v=v0ON23Y4W68
-
-
+### AT&T Archives: Seeing the Digital Future (1961)
+> https://www.youtube.com/watch?v=avHo0-qU8xo
 
 
 
