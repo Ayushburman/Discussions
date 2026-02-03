@@ -61,9 +61,10 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=RaotHMNZPaI
 ### The Story of Dennis Ritchie
 > https://www.youtube.com/watch?v=RaotHMNZPaI
-###
->
-###
+### Ken Thompson’s Hall of Fame Induction
+> https://www.youtube.com/watch?v=0x3aRutVeQU
+### Dennis Ritchie - Write in C
+> https://www.youtube.com/watch?v=H4YRPdRXKFs
 
 
 
