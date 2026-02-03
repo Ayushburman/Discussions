@@ -91,7 +91,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=avHo0-qU8xo
 ### T-Dose 2016, From UNIX to Linux, a time lapse of 45 years, Hendrik Jan Thomassen
 > https://www.youtube.com/watch?v=boahlBmc-NY
-
+### Japan Price Ceremony for Ken
+> https://www.youtube.com/watch?v=p-kWw0UTD2A
 
 
 
