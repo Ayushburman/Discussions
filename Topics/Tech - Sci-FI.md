@@ -69,8 +69,6 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=tc4ROCJYbm0
 ### Dennis Ritchie In One Minute
 > https://www.youtube.com/watch?v=K9pXILeqGCk
-###
-> https://www.youtube.com/watch?v=fxFL_BGev8M
 ### The Untold story of C
 > https://www.youtube.com/watch?v=fxFL_BGev8M
 ### Recreating Dennis Ritchie's PhD Thesis - Computerphile
@@ -79,7 +77,9 @@ Ethics, impact of tech, AI, and digital life.
 # 4. Ken Thompson
 ### VCF East: Ken Thompson interviewed by Brian Kernighan
 > https://www.youtube.com/watch?v=EY6q5dv_B-o
-
+### Oral History of Ken Thompson
+> https://www.youtube.com/watch?v=OmVHkL0IWk4
+###
 
 
 > [!CAUTION]
