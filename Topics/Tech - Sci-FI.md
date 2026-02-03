@@ -83,7 +83,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=NTrAISNdf70
 ### Ken Thompson is a singularity (Brian Kernighan)
 > https://www.youtube.com/watch?v=fL2QwyxcJ5s
-
+### Google I/O 2012 - Meet the Go Team
+> https://www.youtube.com/watch?v=sln-gJaURzk
 
 
 
