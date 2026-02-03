@@ -65,7 +65,11 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=0x3aRutVeQU
 ### Dennis Ritchie - Write in C
 > https://www.youtube.com/watch?v=H4YRPdRXKFs
-
+### AT&T Archives: The UNIX Operating System
+> https://www.youtube.com/watch?v=tc4ROCJYbm0
+### Dennis Ritchie In One Minute
+> https://www.youtube.com/watch?v=K9pXILeqGCk
+###
 
 
 
