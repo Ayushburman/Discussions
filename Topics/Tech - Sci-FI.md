@@ -79,7 +79,13 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=EY6q5dv_B-o
 ### Oral History of Ken Thompson
 > https://www.youtube.com/watch?v=OmVHkL0IWk4
-###
+### Thompson tells how he developed the Go language at Google.
+> https://www.youtube.com/watch?v=NTrAISNdf70
+### Ken Thompson is a singularity (Brian Kernighan)
+> https://www.youtube.com/watch?v=fL2QwyxcJ5s
+### Google I/O 2012 - Meet the Go Team
+> https://www.youtube.com/watch?v=sln-gJaURzk
+
 
 
 > [!CAUTION]
