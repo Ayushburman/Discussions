@@ -102,6 +102,7 @@ day 1 signal lost
 starship connection retained 
 source code found
 spaceship ready to depart
+time 24 hourse to reach destination 
 
 
 > [!CAUTION]
