@@ -101,7 +101,7 @@ Aj91789
 day 1 signal lost
 starship connection retained 
 source code found
-
+spaceship ready to depart
 
 
 > [!CAUTION]
