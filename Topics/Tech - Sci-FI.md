@@ -105,7 +105,7 @@ spaceship ready to depart
 time 24 hourse to reach destination 
 User Starship location found
 user NOAH
-
+starship name - KUJAKU
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
 All content is based on publicly available YouTube and TED Talks.It is not intended to promote, support, or encourage any unethical, illegal, or harmful activities.The knowledge shared here should be used responsibly and ethically.If any content appears to violate guidelines or copyrights, please inform me, and it will be removed..
