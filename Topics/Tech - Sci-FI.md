@@ -93,19 +93,17 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=boahlBmc-NY
 ### Japan Price Ceremony for Ken
 > https://www.youtube.com/watch?v=p-kWw0UTD2A
+--------
+### Tim Berners-Lee: The next Web of open, linked data
+> https://www.youtube.com/watch?v=OM6XIICm_qo
+###
+>
+###
+>
+###
+>
 
-no link added
-> 
 
-Aj91789
-day 1 signal lost
-starship connection retained 
-source code found
-spaceship ready to depart
-time 24 hourse to reach destination 
-User Starship location found
-user NOAH
-starship name - KUJAKU
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
 All content is based on publicly available YouTube and TED Talks.It is not intended to promote, support, or encourage any unethical, illegal, or harmful activities.The knowledge shared here should be used responsibly and ethically.If any content appears to violate guidelines or copyrights, please inform me, and it will be removed..
