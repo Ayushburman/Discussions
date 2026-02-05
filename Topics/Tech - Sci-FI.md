@@ -109,7 +109,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Celebrating the 20th anniversary of the WWW with Tim Berners-Lee at CERN in March 2009
 > https://www.youtube.com/watch?v=ixz04XVS4mI
 ### VNR of the 20th anniversary of the World Wide Web 01
->
+> https://www.youtube.com/watch?v=_IbD96y7xKQ
 ###
 >
 ###
