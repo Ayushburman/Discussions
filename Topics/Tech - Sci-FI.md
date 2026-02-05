@@ -102,6 +102,10 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=rCplocVemjo
 ### Tim Berners-Lee on fame, family and the AI future - Lives Less Ordinary podcast, BBC World Service
 > https://www.youtube.com/watch?v=PWTF32kaa9M
+### Sir Tim on the Internet & future of humanity (Intelligence Squared)
+> https://www.youtube.com/watch?v=PWTF32kaa9M
+
+
 
 
 > [!CAUTION]
