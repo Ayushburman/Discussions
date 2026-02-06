@@ -135,8 +135,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=R0XmBKsRJF8
 ### Steve Jobs Introduces the Macintosh
 > https://www.youtube.com/watch?v=1tQ5XwvjPmA
-
-
+### Steve Jobs in 2003 at D1 the First D All Things Digital Conference (Enhanced Quality)
+> https://www.youtube.com/watch?v=oMyZwhzy5hE
 
 
 > [!CAUTION]
