@@ -141,7 +141,7 @@ Ethics, impact of tech, AI, and digital life.
 # 6. Vint Cerf
 ### Big interview with Vint Cerf, 'the father of Internet'
 > https://www.youtube.com/watch?v=RmTh2PSXA8M
-###
+### Meet the Father of the Internet: Vinton Cerf
 > https://www.youtube.com/watch?v=MjPGPPAUUMM
 ###
 >
