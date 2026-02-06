@@ -149,8 +149,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=vd3dH90tdhk
 ### AI, LA the Next Billion Users | Vint Cerf | Talks at Google
 > https://www.youtube.com/watch?v=DmqLuwcRvMM
-###
->
+### Vint Cerf explains the internet protocol layer
+> https://www.youtube.com/watch?v=HUqNA1EPzPM
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
