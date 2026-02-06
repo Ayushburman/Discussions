@@ -161,7 +161,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=soV7-gwxarE
 ### Vint Cerf of Google on the Future of the Internet
 > https://www.youtube.com/watch?v=bReJ5IHlMbs
-### 
+### A Brief But Spectacular take on the future of the internet
 > https://www.youtube.com/watch?v=F45bQrV1ix0
 ###
 >
