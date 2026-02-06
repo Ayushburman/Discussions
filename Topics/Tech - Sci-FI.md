@@ -134,7 +134,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Pixar's Early Days - A Never-Before-Seen Interview With Steve Jobs, 1996
 > https://www.youtube.com/watch?v=R0XmBKsRJF8
 ### Steve Jobs Introduces the Macintosh
-> 
+> https://www.youtube.com/watch?v=1tQ5XwvjPmA
 
 
 
