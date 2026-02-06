@@ -129,7 +129,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=M6Oxl5dAnR0&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=4
 ### Steve Jobs on Starting A Business
 > https://www.youtube.com/watch?v=kwkGX-PlTxs&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=5
-###
+### Steve Jobs and Bill Gates Together at D5 Conference 2007
 >
 ###
 >
