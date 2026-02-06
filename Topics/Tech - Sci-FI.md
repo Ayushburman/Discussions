@@ -142,7 +142,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Big interview with Vint Cerf, 'the father of Internet'
 > https://www.youtube.com/watch?v=RmTh2PSXA8M
 ###
->
+> https://www.youtube.com/watch?v=MjPGPPAUUMM
 ###
 >
 ###
