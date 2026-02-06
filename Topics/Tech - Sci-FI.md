@@ -159,7 +159,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=gZlNNiI-hq0
 ### Vint Cerf and the Internet of Shit
 > https://www.youtube.com/watch?v=soV7-gwxarE
-###
+### Vint Cerf of Google on the Future of the Internet
+> https://www.youtube.com/watch?v=bReJ5IHlMbs
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
