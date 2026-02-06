@@ -137,7 +137,15 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=1tQ5XwvjPmA
 ### Steve Jobs in 2003 at D1 the First D All Things Digital Conference (Enhanced Quality)
 > https://www.youtube.com/watch?v=oMyZwhzy5hE
-
+--------
+# 6. Vint Cerf
+### Big interview with Vint Cerf, 'the father of Internet'
+> https://www.youtube.com/watch?v=RmTh2PSXA8M
+###
+>
+###
+>
+###
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
