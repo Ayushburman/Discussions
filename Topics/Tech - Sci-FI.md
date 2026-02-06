@@ -143,8 +143,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=RmTh2PSXA8M
 ### Meet the Father of the Internet: Vinton Cerf
 > https://www.youtube.com/watch?v=MjPGPPAUUMM
-###
->
+### Vint Cerf: Re-Thinking the Internet
+> 
 ###
 
 > [!CAUTION]
