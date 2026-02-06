@@ -120,7 +120,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Steve Notes
 > https://www.youtube.com/watch?v=t9HmOz8H0qI
 ### Steve Job's Goodbye Speech
-> 
+> https://www.youtube.com/watch?v=sJm0P8xpDzA
 ### Steve Jobs in 2010, at D8 Conference (Full Video)
 > https://www.youtube.com/watch?v=i5f8bqYYwps&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&rco=1
 
