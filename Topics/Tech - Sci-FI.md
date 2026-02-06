@@ -151,6 +151,11 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=DmqLuwcRvMM
 ### Vint Cerf explains the internet protocol layer
 > https://www.youtube.com/watch?v=HUqNA1EPzPM
+### Vint Cerf on AI, Digital Inclusion, and the Future of Technology | Digging into the Future with PTC
+> https://www.youtube.com/watch?v=OHK9BdTnBT4
+###
+>
+###
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
