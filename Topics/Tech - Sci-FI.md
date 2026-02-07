@@ -169,7 +169,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=Hf0rjtnwC9A
 ###
 > Day 1
-link not added 
+link not added
+> no time got
 
 
 > [!CAUTION]
