@@ -10,3 +10,4 @@ and teamwork.
 2. Joseph Stalin 
 3. Winston Churchill 
 4. Franklin D Roosevelt 
+5. Adolf Hitler 
