@@ -7,3 +7,4 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 3. madam curie
 4. Charles Darwin
 5. Nikola Tesla
+6. Alan Turing 
