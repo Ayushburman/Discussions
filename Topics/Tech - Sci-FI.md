@@ -172,7 +172,8 @@ Ethics, impact of tech, AI, and digital life.
 link not added
 > no time got
 > ni network
-> comment 
+> comment
+>  dis
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
