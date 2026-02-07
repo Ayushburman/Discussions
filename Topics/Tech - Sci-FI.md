@@ -171,7 +171,6 @@ Ethics, impact of tech, AI, and digital life.
 > Day 1
 link not added
 > no time got
-> ni network
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
