@@ -11,3 +11,4 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 7. Stephen Hawking 
 8. Richard Fynman
 9. William Osler
+10. Alexandar Fleming 
