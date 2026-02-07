@@ -171,6 +171,7 @@ Ethics, impact of tech, AI, and digital life.
 > Day 1
 link not added
 > no time got
+> ni network
 
 
 > [!CAUTION]
