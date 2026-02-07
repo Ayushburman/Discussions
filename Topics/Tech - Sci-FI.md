@@ -174,6 +174,7 @@ link not added
 > ni network
 > comment
 >  dis
+> lab tets
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
