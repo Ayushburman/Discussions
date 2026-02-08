@@ -3,6 +3,6 @@
 Topics related to time management, habits, focus, and performance.
 
 
->Elon Musk 
->Tim Cook
->Cal Newport 
+1.Elon Musk 
+2.Tim Cook
+3.Cal Newport 
