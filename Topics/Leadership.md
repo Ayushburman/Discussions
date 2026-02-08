@@ -25,6 +25,8 @@ and teamwork.
 
 > https://youtu.be/3QkFNZ4H9Mk?si=8tVpHfD-Yxt6a7wC
 
+> https://youtu.be/-Teez87T0E0?si=G8_xrTFuPE9wMmUp
+
 ### 3. Joseph Stalin 
 
 
